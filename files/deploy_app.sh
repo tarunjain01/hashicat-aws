@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Hi this text with your own.
+  Welcome to ACME App. Refer to 5 person to get 400$ award. Award gone
   <!-- END -->
 
   </div>
